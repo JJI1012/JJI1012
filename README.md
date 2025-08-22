@@ -4,9 +4,11 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-JJI1012/JJI1012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=000000&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+Jocemar+Santos!+%E2%98%95%F0%9F%92%BB%F0%9F%8C%9" alt="Typing SVG">
+  </a>
+</p>
 --->
 -  [ Exemplo distribuído de CNN de Pytorch para RavDL ] ( https://github.com/ravenprotocol/ravenverse/blob/master/Requester/ pytorch_to_ravdl_cnn .py )
 -  Scripts de exemplo completos de carregamento e treinamento do modelo TorchScript podem ser encontrados aqui:
