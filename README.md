@@ -15,7 +15,6 @@ p align="center">
 -  [ Pytorch CNN distribuído ] ( https://github.com/ravenprotocol/ravenverse/blob/master/Requester/ model_dist .py )
 -  [ Exemplo distribuído de CNN de Pytorch para RavDL ] ( https://github.com/ravenprotocol/ravenverse/blob/master/Requester/ pytorch_to_ravdl_cnn .py )
 -  
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
